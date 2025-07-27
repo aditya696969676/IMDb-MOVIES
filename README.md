@@ -17,7 +17,7 @@ The goal of this project is to analyze movie metadata, ratings, and revenue-rela
 
 ## 🧩 Dataset
 
-- **Source**: IMDb dataset (shared as Excel file with 6 sheets)
+- **Source**: IMDb dataset (shared as SQL database)
 - **Tables Used**:
   - `movie`: core movie attributes (title, duration, year, income, etc.)
   - `ratings`: average, median, and total votes per movie
