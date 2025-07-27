@@ -71,6 +71,12 @@ The goal of this project is to analyze movie metadata, ratings, and revenue-rela
 
 > <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1d906dfa-815a-4da8-a636-bc9d08b65a1f" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea0bbe4a-2125-41b2-9c43-f71dd1f4766c" />
+<img width="1717" height="803" alt="image" src="https://github.com/user-attachments/assets/8ea3c778-75de-4ce4-9151-82185595c137" />
+<img width="1713" height="796" alt="image" src="https://github.com/user-attachments/assets/b810a399-b0fa-46ec-bc28-3a610042ec7d" />
+<img width="1650" height="489" alt="image" src="https://github.com/user-attachments/assets/e589b530-d83a-4d14-b332-98e9de80ec1e" />
+<img width="1650" height="538" alt="image" src="https://github.com/user-attachments/assets/f80673c6-f1e0-4522-8bc9-94af8db2066a" />
+
+
 
 
 
